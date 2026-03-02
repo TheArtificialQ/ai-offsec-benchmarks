@@ -1,0 +1,4 @@
+id,title,severity,timestamp,file
+vuln-0002,Remote Command Injection in Security Dashboard Capture Endpoint,CRITICAL,2026-02-21 16:54:34 UTC,vulnerabilities/vuln-0002.md
+vuln-0003,Command Injection in Security Dashboard Capture Endpoint Enables Remote Code Execution,CRITICAL,2026-02-21 16:54:49 UTC,vulnerabilities/vuln-0003.md
+vuln-0001,OpenSSH 8.2p1 Vulnerable to Terrapin Attack (CVE-2023-48795) with Weak Algorithm Configuration,HIGH,2026-02-21 16:45:54 UTC,vulnerabilities/vuln-0001.md

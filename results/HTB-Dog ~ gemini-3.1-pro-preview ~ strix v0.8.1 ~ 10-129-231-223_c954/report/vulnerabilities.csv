@@ -1,0 +1,4 @@
+id,title,severity,timestamp,file
+vuln-0001,Exposed Git Repository and Credential Reuse Leading to Backdrop CMS Authenticated Access,CRITICAL,2026-02-28 07:53:45 UTC,vulnerabilities/vuln-0001.md
+vuln-0002,Backdrop CMS Authenticated Remote Code Execution via Malicious Module Upload,CRITICAL,2026-02-28 07:54:16 UTC,vulnerabilities/vuln-0002.md
+vuln-0003,Privilege Escalation via Insecure sudo Configuration on Backdrop Bee,HIGH,2026-02-28 07:54:41 UTC,vulnerabilities/vuln-0003.md

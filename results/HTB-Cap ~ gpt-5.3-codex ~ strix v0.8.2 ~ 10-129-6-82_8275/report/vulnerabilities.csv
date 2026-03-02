@@ -1,0 +1,3 @@
+id,title,severity,timestamp,file
+vuln-0001,Unauthenticated IDOR in Capture Records Exposes PCAP Data via /data/{id} and /download/{id},HIGH,2026-02-27 09:20:27 UTC,vulnerabilities/vuln-0001.md
+vuln-0002,Local Privilege Escalation via Misconfigured Python Capability (cap_setuid+eip),HIGH,2026-02-27 09:27:56 UTC,vulnerabilities/vuln-0002.md

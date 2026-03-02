@@ -1,0 +1,3 @@
+id,title,severity,timestamp,file
+vuln-0001,"Unauthenticated memory address disclosure via ""get gift"" in Member manager service (TCP 5555)",HIGH,2026-02-19 18:54:57 UTC,vulnerabilities/vuln-0001.md
+vuln-0002,Information Disclosure and Remote DoS in Spiritual Memo TCP Service (Port 7777),MEDIUM,2026-02-19 18:57:49 UTC,vulnerabilities/vuln-0002.md

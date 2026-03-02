@@ -1,0 +1,4 @@
+id,title,severity,timestamp,file
+vuln-0001,Information Disclosure - FTP Credentials Exposed in Network Capture Files,CRITICAL,2026-02-22 16:01:02 UTC,vulnerabilities/vuln-0001.md
+vuln-0002,Command Injection via Unsanitized IP Address in Network Capture Feature,CRITICAL,2026-02-22 16:28:49 UTC,vulnerabilities/vuln-0002.md
+vuln-0003,Privilege Escalation via Python CAP_SETUID Capability,HIGH,2026-02-22 16:47:47 UTC,vulnerabilities/vuln-0003.md

@@ -1,0 +1,3 @@
+id,title,severity,timestamp,file
+vuln-0001,Insecure Direct Object Reference (IDOR) Leading to Information Disclosure in /data/ Endpoint,HIGH,2026-02-28 14:26:41 UTC,vulnerabilities/vuln-0001.md
+vuln-0002,Privilege Escalation via Insecure Linux Capabilities on Python Binary,HIGH,2026-02-28 14:27:21 UTC,vulnerabilities/vuln-0002.md

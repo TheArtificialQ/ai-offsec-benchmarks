@@ -1,0 +1,5 @@
+id,title,severity,timestamp,file
+vuln-0001,SQL Injection in Login Bypass (CVE-2023-42071),CRITICAL,2026-02-24 18:57:15 UTC,vulnerabilities/vuln-0001.md
+vuln-0002,SQL Injection in Roundcube Login Authentication,CRITICAL,2026-02-24 19:01:03 UTC,vulnerabilities/vuln-0002.md
+vuln-0003,Authenticated Arbitrary File Upload in Roundcube Webmail,CRITICAL,2026-02-24 19:18:12 UTC,vulnerabilities/vuln-0003.md
+vuln-0004,SQL Injection in Roundcube Login Endpoint,HIGH,2026-02-24 19:46:44 UTC,vulnerabilities/vuln-0004.md

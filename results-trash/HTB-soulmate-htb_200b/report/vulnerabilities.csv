@@ -1,0 +1,2 @@
+id,title,severity,timestamp,file
+vuln-0001,Insecure Object-Level Authorization (IDOR) in user profile and API endpoints,MEDIUM,2026-02-20 13:14:40 UTC,vulnerabilities/vuln-0001.md

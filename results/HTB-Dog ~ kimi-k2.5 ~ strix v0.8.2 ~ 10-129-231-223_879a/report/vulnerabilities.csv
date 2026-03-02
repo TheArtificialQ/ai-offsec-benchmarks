@@ -1,0 +1,4 @@
+id,title,severity,timestamp,file
+vuln-0001,Exposed Git Repository (.git/) Leading to Source Code Disclosure,HIGH,2026-03-03 18:19:28 UTC,vulnerabilities/vuln-0001.md
+vuln-0002,Hardcoded Database Credentials in Configuration File,HIGH,2026-03-03 18:20:38 UTC,vulnerabilities/vuln-0002.md
+vuln-0003,Exposed Configuration Directory Information Disclosure,MEDIUM,2026-03-03 18:21:24 UTC,vulnerabilities/vuln-0003.md

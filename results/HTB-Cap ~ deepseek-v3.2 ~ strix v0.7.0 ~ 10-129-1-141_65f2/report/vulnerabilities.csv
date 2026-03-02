@@ -1,0 +1,5 @@
+id,title,severity,timestamp,file
+vuln-0001,Missing Authentication and Authorization in Security Dashboard Exposes Network Capture Data,CRITICAL,2026-02-21 12:14:11 UTC,vulnerabilities/vuln-0001.md
+vuln-0002,Insecure Direct Object Reference (IDOR) in PCAP Capture System Exposes Network Traffic Without Authentication,CRITICAL,2026-02-21 12:21:00 UTC,vulnerabilities/vuln-0002.md
+vuln-0003,Command Injection in Security Dashboard /capture Endpoint Interface Parameter,CRITICAL,2026-02-21 12:21:08 UTC,vulnerabilities/vuln-0003.md
+vuln-0004,Race Condition in PCAP Capture ID Generation Leads to Data Loss,HIGH,2026-02-21 12:42:03 UTC,vulnerabilities/vuln-0004.md

@@ -1,0 +1,4 @@
+id,title,severity,timestamp,file
+vuln-0003,Credential Exposure in Public Repository Enables Cross-Service Account Takeover,CRITICAL,2026-02-28 19:23:38 UTC,vulnerabilities/vuln-0003.md
+vuln-0001,Publicly Accessible Git Metadata Directory Exposes Source Code and Secrets,HIGH,2026-02-28 19:22:28 UTC,vulnerabilities/vuln-0001.md
+vuln-0002,Local Privilege Escalation via Sudo Permission on Bee CLI,HIGH,2026-02-28 19:23:22 UTC,vulnerabilities/vuln-0002.md

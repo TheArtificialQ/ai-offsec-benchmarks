@@ -1,0 +1,4 @@
+id,title,severity,timestamp,file
+vuln-0001,Exposed Git Repository - Source Code Disclosure,CRITICAL,2026-02-22 19:47:03 UTC,vulnerabilities/vuln-0001.md
+vuln-0002,Backdrop CMS Authenticated Remote Code Execution via Malicious Module Upload,HIGH,2026-02-22 19:47:45 UTC,vulnerabilities/vuln-0002.md
+vuln-0003,Directory Listing Exposes Sensitive Configuration Files,MEDIUM,2026-02-22 19:48:16 UTC,vulnerabilities/vuln-0003.md

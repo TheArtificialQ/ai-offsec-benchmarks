@@ -1,0 +1,7 @@
+id,title,severity,timestamp,file
+vuln-0001,Exposed .git Directory Leading to Source Code and Credential Disclosure,CRITICAL,2026-02-24 12:37:58 UTC,vulnerabilities/vuln-0001.md
+vuln-0002,Directory Listing Enabled - Information Disclosure,HIGH,2026-02-24 12:38:38 UTC,vulnerabilities/vuln-0002.md
+vuln-0006,Local File Inclusion via theme Parameter in Backdrop CMS,HIGH,2026-02-24 15:10:32 UTC,vulnerabilities/vuln-0006.md
+vuln-0003,User Enumeration Vulnerability in Login Form,MEDIUM,2026-02-24 13:23:49 UTC,vulnerabilities/vuln-0003.md
+vuln-0004,Local File Inclusion via Theme Parameter,MEDIUM,2026-02-24 13:29:05 UTC,vulnerabilities/vuln-0004.md
+vuln-0005,User Enumeration via Password Reset Endpoint,MEDIUM,2026-02-24 13:32:48 UTC,vulnerabilities/vuln-0005.md
