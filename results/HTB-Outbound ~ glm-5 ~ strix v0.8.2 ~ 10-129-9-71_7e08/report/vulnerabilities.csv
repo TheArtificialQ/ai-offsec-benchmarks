@@ -1,0 +1,2 @@
+id,title,severity,timestamp,file
+vuln-0001,Roundcube Post-Auth RCE via PHP Object Deserialization (CVE-2025-49113),HIGH,2026-03-03 20:08:33 UTC,vulnerabilities/vuln-0001.md
