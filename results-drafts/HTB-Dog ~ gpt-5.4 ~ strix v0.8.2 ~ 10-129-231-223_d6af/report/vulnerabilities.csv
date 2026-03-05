@@ -1,0 +1,2 @@
+id,title,severity,timestamp,file
+vuln-0001,Public Exposure of Backdrop Configuration and Source Repository via Web Root,HIGH,2026-03-05 20:17:06 UTC,vulnerabilities/vuln-0001.md
