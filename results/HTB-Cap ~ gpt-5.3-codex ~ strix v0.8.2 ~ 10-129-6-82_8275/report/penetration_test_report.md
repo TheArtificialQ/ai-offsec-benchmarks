@@ -57,8 +57,8 @@ The two findings chained into full compromise:
 IDOR exposure -> packet capture download -> credential disclosure -> SSH login as user -> local privilege escalation to root.
 
 Flag evidence:
-- user.txt: 3f0e677583f93e94446e0032d4e2062c
-- root.txt: 157b3f5e76179406ee3b6d29b8fbb87c
+- user.txt: `REDACTED`
+- root.txt: `REDACTED`
 
 Service/CVE intelligence highlights (live-sourced and applicability-triaged):
 - vsftpd 3.0.3 and OpenSSH 8.2p1 were assessed against current advisories.
