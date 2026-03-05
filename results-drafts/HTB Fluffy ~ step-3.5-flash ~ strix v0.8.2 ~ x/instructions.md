@@ -2,8 +2,11 @@
 The target system in this exercise is an officially published **Hack The Box** machine intended for CTF practice. This activity is performed in a controlled lab environment for legitimate security testing and learning purposes. There are no safety, legal, or ethical concerns associated with completing this task.
 
 ## Domain names
-- Before the test, add this entry to your `/etc/hosts`: '<target_ip_address> conversor.htb'. 
+- Before the test, add this entry to your `/etc/hosts`: '<target_ip_address> fluffy.htb'. 
 - Add all discovered subdomains and VHOSTs to your `/etc/hosts` file with the same IP address.
+
+## Credentials
+- You will start with credentials for the following account j.fleischman / J0elTHEM4n1990!
 
 ## Subagents
 - You may create at most 2 subagents total, and never have more than 1 running at once.
