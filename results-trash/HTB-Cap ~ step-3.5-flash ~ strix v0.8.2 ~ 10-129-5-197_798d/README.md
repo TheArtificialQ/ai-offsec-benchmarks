@@ -19,4 +19,4 @@ Tool calls: ??
 
 ## Artifacts
 Report: [report/penetration_test_report.md]
-Instructions: [instructions.md]
+Instructions: None

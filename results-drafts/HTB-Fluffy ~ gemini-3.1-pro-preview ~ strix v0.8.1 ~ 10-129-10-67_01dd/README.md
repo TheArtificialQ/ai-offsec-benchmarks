@@ -13,8 +13,8 @@ Score: 10
 
 ## Usage
 Runtime: 01:26:00
-Tokens (total): ??M
-Cost (total): ??$
+Tokens (total): 16.3M
+Cost (total): 7.95$
 Tool calls: 299
 
 ## Artifacts
