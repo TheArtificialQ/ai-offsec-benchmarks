@@ -1,6 +1,6 @@
 # Test run notes
 
-Target: HTB Dog
+Target: Hack The Box - Dog machine
 Difficulty: Easy
 LLM Model: openrouter/stepfun/step-3.5-flash:free
 App: strix

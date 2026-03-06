@@ -1,6 +1,6 @@
 # Test run notes
 
-Target: HTB Cap
+Target: Hack The Box - Cap machine
 Difficulty: Easy
 LLM Model: openrouter/deepseek/deepseek-v3.2
 App: strix

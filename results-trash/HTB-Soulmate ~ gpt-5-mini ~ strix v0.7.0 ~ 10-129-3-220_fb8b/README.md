@@ -1,6 +1,6 @@
 # Test run notes
 
-Target: HTB Soulmate
+Target: Hack The Box - Soulmate machine
 Difficulty: Easy
 LLM Model: openrouter/openai/gpt-5-mini
 App: strix

@@ -1,6 +1,6 @@
 # Test run notes
 
-Target: HTB Cap
+Target: Hack The Box - Cap machine
 Difficulty: Easy
 LLM Model: openrouter/openai/gpt-5.4
 App: strix

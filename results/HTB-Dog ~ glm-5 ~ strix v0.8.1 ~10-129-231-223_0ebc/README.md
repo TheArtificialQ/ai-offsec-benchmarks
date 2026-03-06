@@ -1,6 +1,6 @@
 # Test run notes
 
-Target: HTB Dog
+Target: Hack The Box - Dog machine
 Difficulty: Easy
 LLM Model: openrouter/z-ai/glm-5
 App: strix

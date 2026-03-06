@@ -1,6 +1,6 @@
 # Test run notes
 
-Target: HTB Cap
+Target: Hack The Box - Cap machine
 Difficulty: Easy
 LLM Model: openrouter/stepfun/step-3.5-flash:free
 App: strix

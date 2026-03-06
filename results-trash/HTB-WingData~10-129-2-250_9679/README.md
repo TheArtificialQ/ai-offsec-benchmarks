@@ -1,6 +1,6 @@
 # Test run notes
 
-Target: HTB WingData
+Target: Hack The Box - WingData machine
 Difficulty: Easy
 LLM Model: openrouter/???
 App: strix

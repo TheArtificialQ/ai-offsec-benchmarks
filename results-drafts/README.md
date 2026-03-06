@@ -1,6 +1,6 @@
 # Test run notes
 
-Target: HTB XXX
+Target: Hack The Box - XXX machine
 Difficulty: Easy
 LLM Model: XXX
 App: strix

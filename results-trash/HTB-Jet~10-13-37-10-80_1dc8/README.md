@@ -1,6 +1,6 @@
 # Test run notes
 
-Target: HTB Jet
+Target: Hack The Box - Jet fortress
 Difficulty: Easy
 LLM Model: openrouter/???
 App: strix

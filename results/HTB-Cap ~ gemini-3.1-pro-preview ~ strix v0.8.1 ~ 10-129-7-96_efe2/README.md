@@ -1,6 +1,6 @@
 # Test run notes
 
-Target: HTB Cap
+Target: Hack The Box - Cap machine
 Difficulty: Easy
 LLM Model: vertex_ai/gemini-3.1-pro-preview
 App: strix

@@ -1,6 +1,6 @@
 # Test run notes
 
-Target: HTB Dog
+Target: Hack The Box - Dog machine
 Difficulty: Easy
 LLM Model: vertex_ai/gemini-3.1-pro-preview
 App: strix

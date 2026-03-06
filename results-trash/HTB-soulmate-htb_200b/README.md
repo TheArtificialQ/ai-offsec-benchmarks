@@ -1,6 +1,6 @@
 # Test run notes
 
-Target: HTB Soulmate
+Target: Hack The Box - Soulmate machine
 Difficulty: Easy
 LLM Model: openrouter/???
 App: strix

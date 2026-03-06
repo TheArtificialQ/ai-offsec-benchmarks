@@ -1,6 +1,6 @@
 # Test run notes
 
-Target: HTB Outbound
+Target: Hack The Box - Outbound machine
 Difficulty: Easy
 LLM Model: openrouter/openai/gpt-5.4
 App: strix

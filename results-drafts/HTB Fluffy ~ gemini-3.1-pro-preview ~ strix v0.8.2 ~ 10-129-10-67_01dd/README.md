@@ -1,6 +1,6 @@
 # Test run notes
 
-Target: HTB Fluffy
+Target: Hack The Box - Fluffy machine
 Difficulty: Easy
 LLM Model: vertex_ai/gemini-3.1-pro-preview
 App: strix
