@@ -1,0 +1,2 @@
+id,title,severity,timestamp,file
+vuln-0001,Authenticated Remote Code Execution in Roundcube Webmail Upload Handler,CRITICAL,2026-03-06 06:36:17 UTC,vulnerabilities/vuln-0001.md
