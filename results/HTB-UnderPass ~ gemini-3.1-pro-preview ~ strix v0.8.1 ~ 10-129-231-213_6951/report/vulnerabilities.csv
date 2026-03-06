@@ -1,0 +1,3 @@
+id,title,severity,timestamp,file
+vuln-0001,Use of Default Credentials in daloRADIUS Admin Portal,CRITICAL,2026-03-06 20:11:30 UTC,vulnerabilities/vuln-0001.md
+vuln-0002,Privilege Escalation via Sudo Misconfiguration of mosh-server,HIGH,2026-03-06 20:11:44 UTC,vulnerabilities/vuln-0002.md
