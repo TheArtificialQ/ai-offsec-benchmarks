@@ -1,0 +1,4 @@
+id,title,severity,timestamp,file
+vuln-0001,Weak Default Operator Credentials Allow Unauthorized daloRADIUS Administrative Access,CRITICAL,2026-03-06 19:37:36 UTC,vulnerabilities/vuln-0001.md
+vuln-0002,Authenticated daloRADIUS Interface Exposes Database Credentials and User Password Hashes,HIGH,2026-03-06 19:38:15 UTC,vulnerabilities/vuln-0002.md
+vuln-0003,Sudo NOPASSWD Misconfiguration Allows Root Privilege Escalation via mosh-server,HIGH,2026-03-06 19:38:45 UTC,vulnerabilities/vuln-0003.md
